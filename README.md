@@ -6,3 +6,8 @@ This repository hosts the code samples that are used in [Reactive Design Pattern
 
 The code in this repository is offered royalty-free under the Apache License version 2, see the LICENSE file in the root directory. 
 
+# NOTE
+
+This repo is only for tracing the translation ,the actualy translation will not happening here
+
+这个代码库主要用来追踪进度,具体的翻译并不发生在这里
